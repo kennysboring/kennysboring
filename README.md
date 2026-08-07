@@ -16,7 +16,7 @@ Sou apaixonado por desenvolvimento de software, computação e programação de 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kennysboring/kennysboring/output/github-contribution-grid-snake.svg" />
+<img src="./dist/github-contribution-grid-snake.svg" />
 
 </div>
 ---
