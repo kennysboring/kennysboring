@@ -1,23 +1,24 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/1a/24/c0/1a24c072a676f8a743504104b2a82122.jpg" width="100%" height="400px" style="object-fit: cover;"/>
+<img src="https://i.pinimg.com/1200x/f1/a0/a2/f1a0a2ec343a4d951ce31f114bd48982.jpg" width="100%" height="450px" style="object-fit: cover;"/>
 
 <br>
 I use arch btw <br>
 
-## Olá, eu sou Kenedy Miranda 👋
+## Kenedy Miranda
 
-🎓 **Estudante de Engenharia de Software | Desenvolvedor Backend | Rust, C | Linux**
-</div>
+**Estudante de Engenharia de Software | Desenvolvedor Backend | Rust, C | Linux**
 
 Sou apaixonado por desenvolvimento de software, computação e programação de sistemas. Estou constantemente aprimorando meus conhecimentos por meio de estudos e projetos práticos, buscando escrever código limpo, performático e seguindo boas práticas de desenvolvimento.
+</div>
 
 ---
 <div align="left">
 
 ## 🚀 Tecnologias
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,rust,java,mysql,postgres,git,github,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,java,mysql,postgres,git,github,linux,vscode&theme=dark" />
+</div>
 
 ---
 
@@ -42,17 +43,19 @@ Sou apaixonado por desenvolvimento de software, computação e programação de 
 
 ## 📫 Contato
 
-- GitHub: https://github.com/kennysboring
+- E-mail: kenedymiranda@proton.me
 - LinkedIn: https://www.linkedin.com/in/kenedy-miranda/
+
+</div>
 
 ---
 
-*"Code. Learn. Build. Repeat."* 🚀
+  "Code. Learn. Build. Repeat." 🚀
 
 ---
 
 <div align="center">
-
+  
 <img src="./dist/github-contribution-grid-snake.svg" />
 
 </div>
