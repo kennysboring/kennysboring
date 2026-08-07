@@ -8,17 +8,8 @@ Sou apaixonado por desenvolvimento de software, computação e programação de 
 
 ## 🚀 Tecnologias
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,rust,mysql,git,github,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,rust,java,mysql,postgres,git,github,linux,vscode&theme=dark" />
 
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img src="./dist/github-contribution-grid-snake.svg" />
-
-</div>
 ---
 
 ## 💻 Atualmente
@@ -48,3 +39,11 @@ Sou apaixonado por desenvolvimento de software, computação e programação de 
 ---
 
 *"Code. Learn. Build. Repeat."* 🚀
+
+---
+
+<div align="center">
+
+<img src="./dist/github-contribution-grid-snake.svg" />
+
+</div>
