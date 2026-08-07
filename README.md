@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/ff/b2/30/ffb2302a284c3f3798183ee3d702322a.jpg" width="100%" height="400px" style="object-fit: cover;"/>
+<img src="https://i.pinimg.com/1200x/1a/24/c0/1a24c072a676f8a743504104b2a82122.jpg" width="100%" height="400px" style="object-fit: cover;"/>
 
 <br>
 I use arch btw <br>
